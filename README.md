@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maede</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
-- 🔭 I’m currently working on [Natours](https://github.com/Mae6e/natours)
-
-- 👨‍💻 All of my projects are available at [https://natours-ui5i.onrender.com,
- https://arz4u.ir,
- https://irtusepand.ir,
- http://payanirouag.com,
- http://www.atpyco.ir]
-
-- 💬 Ask me about **nodejs , c#, javascript, html, css**
-
 - 📫 How to reach me **maedehzebhi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
